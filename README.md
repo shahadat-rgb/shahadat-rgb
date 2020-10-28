@@ -6,7 +6,7 @@
 - 😎 Programming Is My Passion🙃
 - ⚔  Keyboard Is MY Weapon😏
 - 🥰 Perfection Is My Habit🌍
-- ⚡ Fun fact: ... Love to travel on vacation 🥰
+- ⚡ Fun fact: ... Love to travel, on vacation 🥰
 -->
 
 ### Connect with me:
@@ -45,7 +45,6 @@
 [programming]:https://bangla.programming-hero.com/
 [website]:   
 [linkedin]:https://www.linkedin.com/in/md-shahadat-hossain-0134b11ab/
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]:
+[jsplaylist]: https://shahadat-rgb.github.io/hard-rock-master/
+[cssplaylist]: https://shahadat-rgb.github.io/E-School-learning/
+[reactplaylist]:https://fir-auth-assignment.firebaseapp.com/
