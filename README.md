@@ -45,7 +45,7 @@
 [programming]:https://bangla.programming-hero.com/
 [website]:   
 [linkedin]:https://www.linkedin.com/in/md-shahadat-hossain-0134b11ab/
-[webdevplaylist]
+[webdevplaylist]:https://ema-jhon-simple-841a8.web.app/
 [jsplaylist]: https://shahadat-rgb.github.io/hard-rock-master/
 [cssplaylist]: https://shahadat-rgb.github.io/E-School-learning/
 [reactplaylist]:https://fir-auth-assignment.firebaseapp.com/
